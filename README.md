@@ -1,7 +1,6 @@
 # Alpine-Spine
 Immutable Alpine-based host with a locked boot spine and bay0 PID-1 warden. The base never changes. All functionality lives in signed, disposable pods (personas) with strict resource ceilings, network isolation, and watchdog enforcement. Shells and embodiments define UX and price tiers without touching the core.
 
-Below is a final-pass README written as if it’s about to be handed to another senior engineer or auditor. No options, no forks, no marketing fluff—just the system as it is.
 
 
 Alpine Spine / Bay0
